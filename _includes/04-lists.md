@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Rap Groups
+  * Run the Jewels
+  * Wu-Tang
+* Wu-Tang Members
+  * Ghostface
+  * Raekwon
